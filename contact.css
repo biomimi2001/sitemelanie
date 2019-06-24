@@ -1,0 +1,82 @@
+nav ul li a {
+  color : black;
+}
+
+header img {
+    width: 100%;
+}
+.logo {
+  width: 28%;
+}
+@media screen and (max-width: 640px) {
+  .logo {
+    margin-left: 50%;
+  }
+}
+
+nav{
+  position: fixed;
+}
+/**********************************/
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(255, 197, 197)
+}
+
+
+
+h1 {
+  text-align: center;
+  font-size: 7vh;
+  font-family: 'Aguafina Script';
+  color: #0097a7;
+  padding-top: 0.6em;
+  margin-bottom: 5%;
+ }
+
+
+
+
+/* Transparence */
+ #fond{
+  background-color: rgba(255, 255, 255, 0.4);
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  height:90vh;
+  margin-bottom: 2%;
+}
+
+
+
+.contact {
+text-align: center;
+font-family: 'Roboto';
+font-size: 3vh;
+line-height: 200%;
+margin-bottom: 10%;
+}
+
+
+
+.domicile {
+  text-align: center;
+  font-family: 'Aguafina Script';
+  font-size: 7vh;
+}
+
+
+#réseaux-sociaux img{
+  max-width: 5%;
+  max-height: 5%;
+}
+
+
+
+#réseaux-sociaux {
+  text-align: center;
+}

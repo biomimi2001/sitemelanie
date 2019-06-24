@@ -1,0 +1,141 @@
+nav ul li a {
+  color : black;
+}
+
+header img {
+    width: 100%;
+}
+.logo {
+  width: 25%;
+}
+@media screen and (max-width: 640px) {
+  .logo {
+    margin-left: 50%;
+  }
+}
+
+nav{
+  position: fixed;
+}
+/**********************************/
+
+
+#retouche{
+  text-align: center;
+  font-size: 7vh;
+  font-family: 'Aguafina Script';
+  color: #0097a7;
+  padding: 5%;
+  background-color: rgba(255, 197, 197);
+}
+
+.fv{
+  background-color: #0097a7;
+  padding-top:  2%;
+  padding-bottom: 2%;
+}
+.vert{
+  background-color: rgba(255, 255, 255, 0.4);
+  width: 90%;
+  margin: 5%;
+  padding-top: 5%;
+  padding-bottom: 7%;
+}
+
+.AA1{
+  width: 60%;
+  float : right;
+  margin-bottom: 5%;
+  border-radius: 20%  !important;
+}
+.AA1txt{
+  margin: 2%;
+  border-top: 1mm ridge pink;
+}
+
+
+.frose{
+  padding-top:  5%;
+  padding-bottom: 5%;
+  background-color: rgba(255, 197, 197)
+}
+
+.fond{
+  background-color: rgba(255, 255, 255, 0.4);
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 2%;
+}
+
+.AA2{
+  width: 60%;
+  float : left;
+  border-radius: 20%  !important;
+}
+.AA2txt{
+  margin: 2%;
+  border-top: 1mm ridge pink;
+  text-align: right;
+  margin-left: 10% !important;
+}
+
+#tarifs {
+  width: 80%;
+  margin-left: 10%;
+}
+
+#tar{
+  color: pink;
+  font-family: 'Aguafina Script';
+  margin: 5%;
+  margin-left: 10%;
+}
+.grilV{
+  background-color: #0097a7;
+  padding-top:  2%;
+  padding-bottom: 2%;
+}
+
+.gril{
+      background-color: rgba(255, 255, 255, 0.4);
+      width: 90%;
+      margin: 5%;
+      padding-top: 5%;
+      padding-bottom: 7%;
+}
+/******************************* mention légales*/
+.ml{
+  text-align: center;
+}
+
+/**************accueil****************/
+.ser{
+  width: 60%;
+}
+.cent {
+  text-align: center;
+}
+#serv{
+  text-align: center;
+  font-size: 15vh;
+  font-family: 'Aguafina Script';
+  color: rgba(255, 197, 197)
+}
+#rea{
+  text-align: center;
+  font-size: 15vh;
+  font-family: 'Aguafina Script';
+  color: #0097a7
+}
+.carou{
+  width: 200% !important;
+}
+  @media screen and (max-width: 640px) {
+    .carou{
+      width: 100% !important;
+    }
+  }
+  .fond2{
+    text-align: center;
+  }
